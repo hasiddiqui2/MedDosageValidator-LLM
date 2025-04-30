@@ -17,3 +17,10 @@ For our study, we selected Fentanyl as the focus drug due to its:
 - High prescription frequency
 - High risk if incorrectly dosed
 - Consistency in unit of measurement
+
+# Future Work
+Our project could be extended in several ways:
+- Expanding to include more high-risk medications
+- Generating synthetic matches to balance the dataset
+- Implementing more advanced LLM techniques (few-shot learning, chain-of-thought prompting)
+- Testing on truly unseen clinical data beyond MIMIC-III
